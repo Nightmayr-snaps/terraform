@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://camo.githubusercontent.com/591488bbda6eb486fada506b2af06fe5e645c3ae/68747470733a2f2f7777772e7465727261666f726d2e696f2f6173736574732f696d616765732f6c6f676f2d6861736869636f72702d33663130373332662e737667" alt="Terraform">
+  <img src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" alt="Terraform">
   <br />
   Terraform
 </h1>
