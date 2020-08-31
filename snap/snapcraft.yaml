@@ -1,11 +1,10 @@
 name: terraform-nightmayr
 base: core18
 adopt-info: terraform
-summary: Terraform - Infrastructure-as-Code
+summary: Build, change, and version infrastructure safely and efficiently
 description: |
-  Terraform is a tool from Hashicorp for building, changing, and versioning
-  infrastructure safely and efficiently. Terraform can manage existing and
-  popular service providers as well as custom in-house solutions.
+  Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. 
+  Terraform can manage existing and popular service providers as well as custom in-house solutions.
 
 grade: stable
 confinement: strict
