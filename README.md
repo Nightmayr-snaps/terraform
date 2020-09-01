@@ -41,7 +41,7 @@ distributions.</p>
 Snapcrafters ([join us](https://forum.snapcraft.io/t/join-snapcrafters/1325)) 
 are working to land snap install documentation and
 the [snapcraft.yaml](https://github.com/snapcrafters/fork-and-rename-me/blob/master/snap/snapcraft.yaml)
-upstream so [Project] can authoritatively publish future releases.
+upstream so Terraform can authoritatively publish future releases.
 
   - [x] Click the green "Use this template" button above to create a new repository based on this template
   - [x] Give the newly created repository a sensible name, like `godzilla-snap` if you're snapping the Godzilla software
