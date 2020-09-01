@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" alt="Terraform">
+  <img src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" height="256" width="256" alt="Terraform">
   <br />
   Terraform
 </h1>
